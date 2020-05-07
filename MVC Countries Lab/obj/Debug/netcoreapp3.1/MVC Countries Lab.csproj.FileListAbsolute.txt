@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.exe
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.deps.json
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.runtimeconfig.json
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.runtimeconfig.dev.json
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.dll
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.pdb
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.AssemblyInfo.cs
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.dll
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.pdb
+C:\Users\Chris\Documents\GC bootcamp\UnitTesting\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.genruntimeconfig.cache
